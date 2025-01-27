@@ -1,0 +1,6 @@
+[submodule "externs/externs/2024-RE-RASSOR-Capabilities"]
+	path = externs/externs/2024-RE-RASSOR-Capabilities
+	url = https://github.com/FlaSpaceInst/2024-RE-RASSOR-Capabilities.git
+[submodule "externs/externs/ezrassor_sim_gazebo"]
+	path = externs/externs/ezrassor_sim_gazebo
+	url = https://github.com/FlaSpaceInst/ezrassor_sim_gazebo.git
