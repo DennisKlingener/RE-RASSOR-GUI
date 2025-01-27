@@ -1,0 +1,1 @@
+SUBSYSTEM=="tty" ATTRS{manufacturer}=="Arduino*" SYMLINK+="arduino" TAG+="systemd" ENV{SYSTEMD_WANTS}="ros2-start-forwarder.service"
